@@ -18,7 +18,7 @@ let result = undefined;
 
 for(let i = 0; i < n; i++)
 {
-  result = `${str}\n`;
+  result = str + "\n";
 }
 
 // DO NOT CHANGE THE LINES BELOW.
