@@ -15,8 +15,9 @@ console.log('n=' + n);
  * be 'Hello!\nHello!\nHello!\n'
  */
 let result = undefined;
+let number = parseInt(n);
 
-for(let i = 0; i < parseInt(n); i++)
+for(let i = 0; i < number; i++)
 {
   result = str + "\n";
 }
