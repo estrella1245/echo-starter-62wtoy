@@ -19,7 +19,7 @@ let number = parseInt(n);
 
 for(let i = 0; i < number; i++)
 {
-  result = str + "\n";
+  result += str + "\n";
 }
 
 // DO NOT CHANGE THE LINES BELOW.
