@@ -14,7 +14,7 @@ console.log('n=' + n);
  * For example: if str is 'Hello!', and n is 3, then it should
  * be 'Hello!\nHello!\nHello!\n'
  */
-let result = undefined;
+let result = '';
 
 for(let i = 0; i < parseInt(n); i++)
 {
